@@ -14,10 +14,10 @@ const About = () => {
             <div className="about__data">
                 <Info />
                 <p className="about__description">
-                    I create applications highlighting minimal design and friendly UI/UX interfaces.
+                    I am studying math and computer science courses in University of Waterloo
                 </p>
                 <a download="" href={CV} className="button button--flex">
-                    Download CV
+                    Download Resume
                     <svg
                         class="button__icon"
                         xmlns="http://www.w3.org/2000/svg"

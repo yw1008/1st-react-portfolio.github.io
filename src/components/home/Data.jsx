@@ -56,14 +56,14 @@ const Data = () => {
             </svg>
         </h1>
         <h3 className="home__subtitle">
-            Developer + Designer
+            Student
         </h3>
         <p className="home__description">
-            Front-end developer dedicated to design and creative solutions.
+            University of Waterloo Student in Honours Math
         </p>
 
         <a href="#contact" className="button button--flex">
-            Say Hello
+            Contact Me
             <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
