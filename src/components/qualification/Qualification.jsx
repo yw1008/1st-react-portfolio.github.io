@@ -33,11 +33,11 @@ const Qualification = () => {
                     : "qualification__content"}>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Design</h3>
-                            <span className="qualification__subtitle">The Art Institute</span>
+                            <h3 className="qualification__title">Yong-in Hongchun Highschool</h3>
+                            <span className="qualification__subtitle">Public Highschool in Korea</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
-                                2016-2018
+                                2021-2022
                             </div>
                         </div>
                         <div>
@@ -52,21 +52,21 @@ const Qualification = () => {
                             <span className="qualification__line"></span>
                         </div>
                         <div>
-                            <h3 className="qualification__title">Web Development</h3>
-                            <span className="qualification__subtitle">Full Sail University</span>
+                            <h3 className="qualification__title">Urban International School</h3>
+                            <span className="qualification__subtitle">Private Secondary School in Toronto</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
-                                2018-2021
+                                2022-2023
                             </div>
                         </div>
                     </div>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">UI/UX Design</h3>
-                            <span className="qualification__subtitle">UX Academy</span>
+                            <h3 className="qualification__title">University of Waterloo</h3>
+                            <span className="qualification__subtitle">Bachelor of Math</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
-                                2021-2022
+                                2023-present
                             </div>
                         </div>
                         <div>
@@ -79,11 +79,11 @@ const Qualification = () => {
                     : "qualification__content"}>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Tech Support</h3>
-                            <span className="qualification__subtitle">PC Outlet</span>
+                            <h3 className="qualification__title">Katsuya</h3>
+                            <span className="qualification__subtitle">Server and Kitchen Assistant</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
-                                2012-2015
+                                2023-2023
                             </div>
                         </div>
                         <div>
@@ -98,21 +98,21 @@ const Qualification = () => {
                             <span className="qualification__line"></span>
                         </div>
                         <div>
-                            <h3 className="qualification__title">Junior Developer</h3>
-                            <span className="qualification__subtitle">Discord</span>
+                            <h3 className="qualification__title">1st co-op</h3>
+                            <span className="qualification__subtitle">-</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
-                                2015-2016
+                                -
                             </div>
                         </div>
                     </div>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">UX Designer</h3>
-                            <span className="qualification__subtitle">Apple Inc</span>
+                            <h3 className="qualification__title">2nd co-op</h3>
+                            <span className="qualification__subtitle">-</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
-                                2016-2022
+                                -
                             </div>
                         </div>
                         <div>
@@ -127,11 +127,11 @@ const Qualification = () => {
                             <span className="qualification__line"></span>
                         </div>
                         <div>
-                            <h3 className="qualification__title">Senior Developer</h3>
-                            <span className="qualification__subtitle">Freelance - Remote</span>
+                            <h3 className="qualification__title">3rd co-op</h3>
+                            <span className="qualification__subtitle">-</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
-                                2019-Present
+                                -
                             </div>
                         </div>
                     </div>
